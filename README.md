@@ -59,6 +59,8 @@ The script will authenticate with Jira and start monitoring for new issues. When
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+________________________________________________________________________________
+
 # Jira Notice Bot для Telegram
 
 Этот репозиторий содержит скрипт на Python, который мониторит задачи в Jira и отправляет уведомления в чат Telegram. Скрипт предназначен для периодической проверки наличия новых задач в Jira и отправки сообщения с использованием Telegram-бота, когда обнаружена новая задача.
