@@ -55,10 +55,7 @@ The script will authenticate with Jira and start monitoring for new issues. When
 - Make sure your Telegram bot has been created and the bot token is correctly configured.
 - The script uses asynchronous operations to handle both Jira authentication and Telegram messaging, making it efficient for continuous use.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+Made by FILINSI
 ________________________________________________________________________________
 
 # Jira Notice Bot для Telegram
@@ -122,5 +119,5 @@ python JiraBot.py
 
 Этот проект лицензирован на условиях лицензии MIT. См. файл LICENSE для деталей.
 
-
+Made by FILINSI
 
