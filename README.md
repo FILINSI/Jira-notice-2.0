@@ -1,3 +1,5 @@
+> **Note**: To keep the script running continuously in the background, you can use a terminal multiplexer such as [GNU Screen](https://wiki.archlinux.org/title/GNU_Screen). This will allow you to keep the script running even if you disconnect from the terminal session.
+
 ## 📝 Description
 A feature-rich Telegram bot for JIRA ticket management and helpdesk coordination. The bot provides instant notifications of new tickets, interactive task management and duty schedule tracking.
 
