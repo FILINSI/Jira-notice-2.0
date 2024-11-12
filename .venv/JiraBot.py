@@ -1642,3 +1642,4 @@ async def show_recent_tasks(query, context):
 if __name__ == "__main__":
     # Запуск основного цикла
     asyncio.run(main())
+    
